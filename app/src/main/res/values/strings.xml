@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MoreThreadDownload</string>
+
+
+    <string-array name="array_download_url">
+        <item>STXINGKA.TTF</item> //华文行楷
+        <item>SIMLI.TTF</item> //隶书
+        <item>SIMYOU.TTF</item> //幼圆
+        <item>STCAIYUN.TTF</item> //华文彩云
+        <item>STHUPO.TTF</item>/华文琥珀
+        <item>STSONG.TTF</item>//华文宋体
+    </string-array>
+
+    <string-array name="array_download_name">
+        <item>华文行楷</item>
+        <item>隶书</item>
+        <item>幼圆</item>
+        <item>华文彩云</item>
+        <item>华文琥珀</item>
+        <item>华文宋体</item>
+    </string-array>
+
+
+
+</resources>
